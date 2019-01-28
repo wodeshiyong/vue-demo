@@ -1,7 +1,6 @@
 # project
 
-> A Vue.js project
-
+> A Vue.js projec跟着网上视频做的
 ## Build Setup
 
 ``` bash
